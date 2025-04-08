@@ -1,9 +1,6 @@
 {
     "aplicativos": {
-        "discord": "C:/Users/Marco/AppData/Local/Discord/Update.exe",
-        "bloco de notas": "C:/Program Files/Notepad++/notepad++.exe",
-		"whatsapp": "whatsapp.exe",
-		"lol": "C:/ProgramData/Microsoft/Windows/Start Menu/Programs/Riot Games/League of Legends.lnk"
+        "bloco de notas": "C:/Program Files/Notepad++/notepad++.exe"
     },
     "urls": {
         "youtube": "https://www.youtube.com",
@@ -16,8 +13,6 @@
         "download": "C:/Users/Marco/Downloads",
         "área de trabalho": "C:/Users/Marco/Desktop",
         "vídeos": "C:/Users/Marco/Videos",
-        "vídeo": "C:/Users/Marco/Videos",
-        "grafica": "G:/Meu Drive/Backup - Computador/Henrique Artes Gráficas - Arquivos",
-        "gráfica": "G:/Meu Drive/Backup - Computador/Henrique Artes Gráficas - Arquivos"
+        "vídeo": "C:/Users/Marco/Videos"
     }
 }
