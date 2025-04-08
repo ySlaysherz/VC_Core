@@ -1,0 +1,23 @@
+{
+    "aplicativos": {
+        "discord": "C:/Users/Marco/AppData/Local/Discord/Update.exe",
+        "bloco de notas": "C:/Program Files/Notepad++/notepad++.exe",
+		"whatsapp": "whatsapp.exe",
+		"lol": "C:/ProgramData/Microsoft/Windows/Start Menu/Programs/Riot Games/League of Legends.lnk"
+    },
+    "urls": {
+        "youtube": "https://www.youtube.com",
+        "google": "https://www.google.com"
+    },
+    "pastas": {
+        "documentos": "C:/Users/Marco/Documents",
+        "downloads": "C:/Users/Marco/Downloads",
+        "documento": "C:/Users/Marco/Documents",
+        "download": "C:/Users/Marco/Downloads",
+        "área de trabalho": "C:/Users/Marco/Desktop",
+        "vídeos": "C:/Users/Marco/Videos",
+        "vídeo": "C:/Users/Marco/Videos",
+        "grafica": "G:/Meu Drive/Backup - Computador/Henrique Artes Gráficas - Arquivos",
+        "gráfica": "G:/Meu Drive/Backup - Computador/Henrique Artes Gráficas - Arquivos"
+    }
+}
